@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Custom view codelab</string>
+    <string name="fan_off">off</string>
+    <string name="fan_low">1</string>
+    <string name="fan_medium">2</string>
+    <string name="fan_high">3</string>
+    <string name="fan_control">Fan Control</string>
+    <string name="cd_fan_off">Change level to first</string>
+    <string name="cd_fan_low">Change level to second</string>
+    <string name="cd_fan_medium">Change level to third</string>
+    <string name="cd_fan_high">Reset level to off</string>
 </resources>
